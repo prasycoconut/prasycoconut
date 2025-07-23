@@ -27,4 +27,4 @@ Thank you for visiting.
 
 <br>
 
-![Dinosaurs 🗿](https://github.com/prasyyeagers/prasyyeagers/blob/prasy/media/dino.gif)
+![Dinosaurs 🗿](https://github.com/prasycoconut/prasycoconut/blob/prasy/image/prasy%20coconut.jpg)
