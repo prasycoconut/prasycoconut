@@ -4,7 +4,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=prasycoconut;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-![Prasy Coconut](https://github.com/prasyyeagers/prasyyeagers/blob/prasy/image/prasy%20yeagers.jpg)
+![Prasy Coconut](https://github.com/prasycoconut/prasycoconut/blob/prasy/image/prasy%20coconut.jpg)
 
 
 > [!WARNING]
@@ -27,4 +27,4 @@ Thank you for visiting.
 
 <br>
 
-![Dinosaurs 🗿](https://github.com/prasycoconut/prasycoconut/blob/prasy/image/prasy%20coconut.jpg)
+![Dinosaurs 🗿](https://github.com/prasycoconut/prasycoconut/blob/prasy/media/dino.gif)
