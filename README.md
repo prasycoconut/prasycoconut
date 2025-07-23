@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-![Prasy Seafood](https://github.com/prasycoconut/prasycoconut/blob/prasy/image/prasy%20coconut.jpg)
+![Prasy Seafood](https://github.com/prasyseafood/prasyseafood/blob/prasy/image/prasy%20seafood.jpg)
 
 
 > [!WARNING]
@@ -27,4 +27,4 @@ Thank you for visiting.
 
 <br>
 
-![Dinosaurs 🗿](https://github.com/prasycoconut/prasycoconut/blob/prasy/media/dino.gif)
+![Dinosaurs 🗿](https://github.com/prasyseafood/prasyseafood/blob/prasy/media/dino.gif)
